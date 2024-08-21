@@ -295,7 +295,7 @@ body {
         );
 }
 
-@media (max-width: 1000px) {
+@media (min-width: 1500px) {
     :root {
         --building-color1: #000;
         --building-color2: #000;
